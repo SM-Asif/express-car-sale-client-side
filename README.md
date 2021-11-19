@@ -1,6 +1,6 @@
 <h1>Express Car selling React Application</h1>
                 <hr />
-                <p>Its a online food ordering app.</p>
+                <p>Its a online car selling app.</p>
                 <h4><a target='_blank' href="https://express-car-sale.web.app/">Live Link</a></h4>
                 <br />
                 <h5>Website Features:</h5>

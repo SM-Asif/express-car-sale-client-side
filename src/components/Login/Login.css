@@ -1,0 +1,15 @@
+.google-signin, .google-signin:hover, .google-signin:focus, .google-signin:active{
+    padding: 0;
+    background-color: #4285f4;
+}
+.google-signin img{
+    padding: 12px;
+    background-color: #fff;
+    height: 100%;
+}
+.google-signin span{
+    padding: 10px;
+    display: inline-block;
+    background-color: #4285f4;
+    color: white;
+}

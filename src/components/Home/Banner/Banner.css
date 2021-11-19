@@ -1,0 +1,14 @@
+.hero-image {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 300px 0 300px 0;
+  }
+  
+  .hero-text {
+    text-align: center;
+    color: white;
+  }
+  .theme-btn {background-color: #F5992E;border-color: #F5992E;box-shadow: none!important;}
+  .theme-btn:hover, .theme-btn:focus, .theme-btn:active {background-color: #ffa945;border-color: #ffa945;box-shadow: none!important;}

@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Lamborghini Aventador",
+        "details": "This is fully automatic car and highly good for racing and stunts.",
+        "price": 49000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/3.png"
+    },
+    {
+        "name": "BMW E46 M3 DISKI SERIE",
+        "details": "This is fully automatic car and highly good for racing and stunts.",
+        "price": 53000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/4.png"
+    },
+    {
+        "name": "PORSCHE Cayenne LAST",
+        "details": "This is fully automatic car and highly good for racing and stunts.",
+        "price": 75000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/6.png"
+    },
+    {
+        "name": "Ferari EB4 Xcorp",
+        "details": "This is fully automatic car and highly good for racing and stunts.",
+        "price": 80000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/8.png"
+    },
+    {
+        "name": "BMW X1 twin ultra",
+        "details": "This is fully automatic car and highly good for racing and stunts.",
+        "price": 45000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/1.png"
+    },
+    {
+        "name": "PORSCHE YX2 ABS",
+        "details": "Fully hadnmade Juice. Lemon, orange, watermelon, papaya etc fresh fruits juice without any chemical",
+        "price": 57000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/5.png"
+    },
+    {
+        "name": "MAZDA CX-5 SX V6",
+        "details": "Fully hadnmade Juice. Lemon, orange, watermelon, papaya etc fresh fruits juice without any chemical",
+        "price": 38000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/2.png"
+    },
+    {
+        "name": "COROLLA XE Salon",
+        "details": "Fully hadnmade Juice. Lemon, orange, watermelon, papaya etc fresh fruits juice without any chemical",
+        "price": 25000,
+        "img": "https://unicoderbd.com/theme/html/chaka/assets/images/portfolio/7.png"
+    },
+    {
+        "name": "FERARI XCop New Edition",
+        "details": "Fully hadnmade Juice. Lemon, orange, watermelon, papaya etc fresh fruits juice without any chemical",
+        "price": 95000,
+        "img": "http://www.chimpgroup.com/themeforest/automobile/assets/extra-images/listing-Grid-img8.jpg"
+    },
+    {
+        "name": "MAZDA X5 2nd Version",
+        "details": "Fully hadnmade Juice. Lemon, orange, watermelon, papaya etc fresh fruits juice without any chemical",
+        "price": 47000,
+        "img": "http://www.chimpgroup.com/themeforest/automobile/assets/extra-images/listing-Grid-img4.jpg"
+    }
+    
+]
